@@ -1,0 +1,75 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    tools:context="com.neonto.exportedByUser_s3789998859554166.Medicus.DetailsFragment" >
+        <com.neonto.exportedByUser_s3789998859554166.Medicus.DetailsBackgroundShapeView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/mBackgroundShape"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="0.0mm"
+        />
+    
+    <ScrollView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:id="@+id/flowScrollView"
+       >
+      <RelativeLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1">
+            <com.neonto.exportedByUser_s3789998859554166.Medicus.DetailsPictureView
+                android:layout_width="match_parent"
+                android:layout_height="548.0px"
+                android:id="@+id/mPicture"
+                android:layout_marginLeft="0.0mm"
+                android:layout_marginTop="9.88mm"
+            />
+    
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/mtitle_557971"
+                android:textColor="#4a494a"
+                android:gravity="left"
+                android:textSize="19.0dp"
+                android:textStyle="bold"
+                android:id="@+id/mTitle"
+                android:layout_marginLeft="4.93mm"
+                android:layout_marginTop="4.92mm"
+            />
+    
+            <com.neonto.exportedByUser_s3789998859554166.Medicus.DetailsLineView
+                android:layout_width="match_parent"
+                android:layout_height="3.55px"
+                android:id="@+id/mLine"
+                android:layout_marginLeft="5.32mm"
+                android:layout_marginTop="0.71mm"
+            />
+    
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/mpraesentetdiamege_307016"
+                android:textColor="#4a494a"
+                android:gravity="left"
+                android:textSize="14.8dp"
+                android:id="@+id/mPraesentEtDiamEge"
+                android:layout_marginLeft="4.94mm"
+                android:layout_marginTop="3.70mm"
+            />
+    
+      </RelativeLayout>
+    </ScrollView>
+    
+</RelativeLayout>

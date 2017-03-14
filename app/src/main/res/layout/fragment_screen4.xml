@@ -1,0 +1,66 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    android:paddingBottom="0dp"
+    tools:context="com.neonto.exportedByUser_s3789998859554166.Medicus.Screen4Fragment" >
+        <com.neonto.exportedByUser_s3789998859554166.Medicus.Screen4BackgroundShapeView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/mBackgroundShape"
+            android:layout_marginLeft="0.0mm"
+            android:layout_marginTop="0.0mm"
+        />
+    
+        <ListView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:listSelector="@android:color/transparent"
+            android:divider="@null"
+            android:dividerHeight="0dp"
+            android:id="@+id/mList"
+            android:layout_marginLeft="16.52mm"
+            android:layout_marginTop="19.41mm"
+        />
+    
+        <android.support.v7.widget.SwitchCompat
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/mSwitch"
+            android:layout_marginLeft="57.28mm"
+            android:layout_marginTop="89.30mm"
+        />
+    
+        <com.google.android.gms.maps.MapView
+            android:layout_width="536.09px"
+            android:layout_height="536.09px"
+            android:id="@+id/mMap"
+            android:layout_marginLeft="8.61mm"
+            android:layout_marginTop="81.02mm"
+        />
+    
+        <com.neonto.exportedByUser_s3789998859554166.Medicus.Screen4PickerView
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/base_text"
+            android:gravity="left"
+            android:textSize="14.8dp"
+            android:layout_width="428.87px"
+            android:layout_height="60.0px"
+            android:id="@+id/mPicker"
+            android:layout_marginLeft="25.48mm"
+            android:layout_marginTop="64.59mm"
+        />
+    
+        <com.neonto.exportedByUser_s3789998859554166.Medicus.Screen4Heart5View
+            android:layout_width="526.78px"
+            android:layout_height="243.27px"
+            android:id="@+id/mHeart5"
+            android:layout_marginLeft="5.64mm"
+            android:layout_marginTop="11.85mm"
+        />
+    
+</RelativeLayout>

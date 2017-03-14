@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="myourguide_87603"> Medicus \nIhr schnelles Checkin in die Arztpraxis\n(Slogan)</string>
+    <string name="mbutton_921102">Login</string>
+    <string name="mpraesentetdiamege_307016">Hier steht dann der jeweilige Inhalt… (Checkin/Einstellung/etc)</string>
+    <string name="mbutton2_331465">New button</string>
+    <string name="mlapland_957097">Medicus</string>
+    <string name="mshortdescription_1025541">Suchen Sie Ärzte in Ihrer Umgebung</string>
+    <string name="mtitle_645100">Ärzte suchen</string>
+    <string name="mtitle_557971">Titel</string>
+    <string name="placeholder_mfieldcopy_268823">Password</string>
+    <string name="app_name">Medicus</string>
+    <string name="placeholder_mfield_184628">User name</string>
+</resources>

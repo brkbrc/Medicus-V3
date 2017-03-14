@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/burak/Documents/Neonto Studio/Works In Progress (Android)/Medicus (Lapland-Adventures.neontoproj)/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/Users/burak/Documents/Neonto Studio/Works In Progress (Android)/Medicus (Lapland-Adventures.neontoproj)/app/build/intermediates/exploded-aar/Medicus (Lapland-Adventures.neontoproj).google_play_services/google-play-services_lib/unspecified/res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Users/burak/Documents/Neonto Studio/Works In Progress (Android)/Medicus (Lapland-Adventures.neontoproj)/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
+        "source": "/Users/burak/Documents/Neonto Studio/Works In Progress (Android)/Medicus (Lapland-Adventures.neontoproj)/app/build/intermediates/exploded-aar/Medicus (Lapland-Adventures.neontoproj).google_play_services/google-play-services_lib/unspecified/res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/Users/burak/Documents/Neonto Studio/Works In Progress (Android)/Medicus (Lapland-Adventures.neontoproj)/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
+        "source": "/Users/burak/Documents/Neonto Studio/Works In Progress (Android)/Medicus (Lapland-Adventures.neontoproj)/app/build/intermediates/exploded-aar/Medicus (Lapland-Adventures.neontoproj).google_play_services/google-play-services_lib/unspecified/res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Users/burak/Documents/Neonto Studio/Works In Progress (Android)/Medicus (Lapland-Adventures.neontoproj)/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
+        "source": "/Users/burak/Documents/Neonto Studio/Works In Progress (Android)/Medicus (Lapland-Adventures.neontoproj)/app/build/intermediates/exploded-aar/Medicus (Lapland-Adventures.neontoproj).google_play_services/google-play-services_lib/unspecified/res/drawable-tvdpi-v4/ic_plusone_small_off_client.png"
+    }
+]
